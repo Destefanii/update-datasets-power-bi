@@ -1,7 +1,7 @@
 # Atualizar datasets do PowerBI utilizando python
 
 <p align="center">
-  <img src="../src/ariflow+power_bi.png" width="350" title="airflow com power bi" alt="airflow">
+  <img src="/src/ariflow+power_bi.png" width="350" title="airflow com power bi" alt="airflow">
 </p>
 
 ## Conteudo
