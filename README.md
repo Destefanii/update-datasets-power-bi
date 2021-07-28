@@ -31,7 +31,7 @@ Link de acesso para criar o client ID: https://dev.powerbi.com/apps selecione as
 
 ## Proximos passos utilizando a Azure ☁ <a name = "Azure"></a>
 
-Para conseguir utilizar esse script no seu projeto, caso ele esteja na azure sera necessário registar a chave do client ID dentro 
+Para conseguir utilizar esse script no seu projeto, na azure sera necessário registar a chave do client ID dentro 
 de App Registrations, portanto siga os proximos passos: App Registrations -> Selecione o nome que voce escolheu para o client id do power bi -> API Permissions -> Grant admin consent for (Resource group).  
 
 Assim que esses passos forem finalizados o script ja vai estar com permissão para acessar os datasets e atualizar os mesmos asim que forem solicitados 
