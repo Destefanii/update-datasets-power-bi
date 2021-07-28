@@ -9,7 +9,7 @@
 - [Oque é](#getting_started)
 - [Requisitos](#requisitos)
 - [Permissoes Necessarias](#Permissoes_Necessarias)
-- [Permissoes Necessarias Cloud](#Azure)
+- [Permissoes Necessarias Cloud ☁](#Azure)
 
 
 ## Oque é <a name = "getting_started"></a>
