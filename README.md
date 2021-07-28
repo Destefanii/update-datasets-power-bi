@@ -1,14 +1,16 @@
 # Atualizar datasets do PowerBI utilizando python
 
 <p align="center">
-  <img src="/src/airflow+power_bi.png" width="350" title="airflow com power bi" alt="airflow">
+  <img src="/src/airflow+power_bi.png" width="350" title="Airflow com power bi" alt="airflow">
 </p>
 
 ## Conteudo
 
 - [Oque é](#getting_started)
-- [Permissoes Necessarias](#Permissoes_Necessarias)
 - [Requisitos](#requisitos)
+- [Permissoes Necessarias](#Permissoes_Necessarias)
+- [Permissoes Necessarias Cloud](#Azure)
+
 
 ## Oque é <a name = "getting_started"></a>
 
@@ -26,3 +28,7 @@ precisa das seguintes permissões
 "Read and write all datasets, Read All Workspaces"
 ```
 Link de acesso para criar o client ID: https://dev.powerbi.com/apps selecione as permissões necessarias mencionadas anteriormente.
+
+## Proximos passos utilizando a Azure <a name = "Azure"></a>
+
+Azure
