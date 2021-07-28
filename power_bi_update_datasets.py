@@ -7,7 +7,7 @@ import requests
 import json
 
 # Credenciais que serão utilizadas na atualização do dataset que esta no power BI
-client_id = "Passar client ID do power BI, link de acesso https://dev.powerbi.com/apps"
+client_id = "Passar client ID do power BI"
 
 username = "Username para conectar no power BI"
 password = "Password para conectar no power BI"

@@ -2,18 +2,24 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
+- [Permissoes Necessarias](#Permissoes_Necessarias)
+- [Oque é](#getting_started)
 - [Usage](#usage)
 - [Contributing](../CONTRIBUTING.md)
 
-## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
 
-## Getting Started <a name = "getting_started"></a>
+## Oque é <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Feature responsavel por atualizar os datasets do power bi e pode ser usado com airflow, assim que uma base for atualizada pelo airflow logo em seguida este conjunto de codigo sera ativado e atualizando as bases de dados necessarias.
+
+## Permissoes <a name = "Permissoes_Necessarias"></a>
+
+link de acesso https://dev.powerbi.com/apps
+Nas permissões do client ID selecione:
+```
+"Read and write all datasets, Read All Workspaces"
+```
 
 ### Prerequisites
 
