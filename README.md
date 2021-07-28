@@ -14,7 +14,7 @@
 
 ## Oque é ❓<a name = "getting_started"></a>
 
-Feature responsavel por atualizar os datasets do power bi que pode ser usado com airflow, assim que uma base for atualizada pelo airflow logo em seguida este conjunto de codigo sera ativado e atualizando as bases de dados necessarias.
+Feature responsavel por atualizar os datasets do power bi que pode ser usado com airflow, assim que uma base for atualizada pelo airflow logo em seguida o dataset que esteja vinculado a aquele pipeline também será atualizado, assim centralizando a atualização de datasets do powerbi em um unico lugar com fácil entendimento de quais bases foram ou não atualizadas.
 
 ### Requisitos ⚠<a name = "requisitos"></a>
 
