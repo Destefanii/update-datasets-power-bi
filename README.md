@@ -22,13 +22,16 @@ Client ID, Nome de usuario para conectar no power bi e senha para conectar no po
 
 ## Permissoes <a name = "Permissoes_Necessarias"></a>
 
-Para conseguir utilizar o script sera necessario criar um client ID para o power BI, este cliente ID \n
+Para conseguir utilizar o script sera necessario criar um client ID para o power BI, este cliente ID 
 precisa das seguintes permissões 
 ```
 "Read and write all datasets, Read All Workspaces"
 ```
 Link de acesso para criar o client ID: https://dev.powerbi.com/apps selecione as permissões necessarias mencionadas anteriormente.
 
-## Proximos passos utilizando a Azure <a name = "Azure"></a>
+## Proximos passos utilizando a Azure ☁ <a name = "Azure"></a>
 
-Azure
+Para conseguir utilizar esse script no seu projeto, caso ele esteja na azure sera necessário registar a chave do client ID dentro 
+de App Registrations, portanto siga os proximos passos: App Registrations -> Selecione o nome que voce escolheu para o client id do power bi -> API Permissions -> Grant admin consent for (Resource group).  
+
+A
