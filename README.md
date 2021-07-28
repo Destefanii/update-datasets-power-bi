@@ -1,6 +1,6 @@
-# Project Title
+# Atualizar datasets do PowerBI utilizando python
 
-## Table of Contents
+## Conteudo
 
 - [Oque é](#getting_started)
 - [Permissoes Necessarias](#Permissoes_Necessarias)
@@ -16,11 +16,13 @@ Client ID, Nome de usuario para conectar no power bi e senha para conectar no po
 
 ## Permissoes <a name = "Permissoes_Necessarias"></a>
 
-link de acesso https://dev.powerbi.com/apps
-Nas permissões do client ID selecione:
+Para conseguir utilizar o script sera necessario criar um client ID para o power BI, este cliente ID \n
+precisa das seguintes permissões 
 ```
 "Read and write all datasets, Read All Workspaces"
 ```
+Link de acesso para criar o client ID: https://dev.powerbi.com/apps selecione as permissões necessarias mencionadas anteriormente.
+
 ## Usage <a name = "usage"></a>
 
 Add notes about how to use the system.
