@@ -1,7 +1,4 @@
-# Feature responsavel por atualizar os datasets do power bi, usando o airflow, assim que uma base for atualizada pelo airflow logo em seguida
-# este conjunto de codigo sera ativado e atualizando as bases de dados necessarias 
-
-# Bibliotecas que vão ser usadas para a realização da feature
+# Bibliotecas que vão ser usadas para a realização da tarefa
 import adal
 import requests
 import json
